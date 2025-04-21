@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Kennedy Pinheiro! 👋
 
-<!--
-**KennedyPinheiro/KennedyPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desenvolvedor Full Stack & Designer Gráfico Freelancer  
+**📍 IFNMG (ADS) | Focado em TypeScript, React & Laravel**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Habilidades  
+- **Frontend:** JavaScript, TypeScript, React  
+- **Backend:** PHP, Laravel  
+- **Mobile:** React Native  
+- **Design:** UI/UX, Design Gráfico (Figma, Adobe Creative Cloud)  
+
+---
+
+### 🔥 Projeto em Destaque  
+**🌐 PharusV2**  
+Desenvolvimento do site de eventos do **Instituto Federal do Norte de Minas Gerais** (IFNMG), aplicando soluções eficientes com:  
+- TypeScript | React | Laravel  
+
+---
+
+### 📌 Sobre Mim  
+- 💡 **Freelancer** em desenvolvimento e design, unindo tecnologia e criatividade.  
+- 🌱 **Estudante de Análise e Desenvolvimento de Sistemas (IFNMG)**.  
+- 🎨 **Designer gráfico** por paixão, criando identidades visuais impactantes.  
+
+---
+
+### 📊 GitHub Stats  
+![Kennedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KennedyPinheiro&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyPinheiro&layout=compact&theme=radical)
