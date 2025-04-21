@@ -1,7 +1,7 @@
 # Olá, eu sou Kennedy Pinheiro! 👋
 
 ### 🚀 Desenvolvedor Full Stack & Designer Gráfico Freelancer  
-**📍 IFNMG (ADS) | Focado em TypeScript, React & Laravel**  
+**📍 IFNMG (ADS) | Focado em ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB? ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)**  
 
 ---
 
