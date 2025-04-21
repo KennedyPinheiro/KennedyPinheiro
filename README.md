@@ -30,3 +30,5 @@ Desenvolvimento do site de eventos do **Instituto Federal do Norte de Minas Gera
 ### 📊 GitHub Stats  
 ![Kennedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KennedyPinheiro&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyPinheiro&layout=compact&theme=radical)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
