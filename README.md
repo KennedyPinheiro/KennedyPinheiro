@@ -22,14 +22,11 @@ Desenvolvimento do site de eventos do **Instituto Federal do Norte de Minas Gera
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
 
 
-
 ---
 
-**📱 Gestorize Mobile**  
-O **GestorizeMobile** é um aplicativo mobile em desenvolvimento para auxiliar pequenas e médias empresas no gerenciamento de funcionários, clientes, produtos e orçamentos. Com uma interface intuitiva e moderna, permite um controle eficiente e organizado de informações essenciais para o funcionamento do negócio.  
+### [📱 Gestorize Mobile](https://github.com/KennedyPinheiro/GestorizeMobile)
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+O **GestorizeMobile** é um aplicativo mobile em desenvolvimento para auxiliar pequenas e médias empresas no gerenciamento de funcionários, clientes, produtos e orçamentos. Com uma interface intuitiva e moderna, permite um controle eficiente e organizado de informações essenciais para o funcionamento do negócio.
 
 ---
 <div align="center">
