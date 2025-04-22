@@ -37,7 +37,7 @@ O **GestorizeMobile** é um aplicativo mobile em desenvolvimento para auxiliar p
   <tr>
     <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=KennedyPinheiro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    </td>
+    </td> 
     <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyPinheiro&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
     </td>
