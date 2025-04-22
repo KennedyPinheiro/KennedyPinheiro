@@ -29,10 +29,10 @@ Desenvolvimento do site de eventos do **Instituto Federal do Norte de Minas Gera
 O **GestorizeMobile** é um aplicativo mobile em desenvolvimento para auxiliar pequenas e médias empresas no gerenciamento de funcionários, clientes, produtos e orçamentos. Com uma interface intuitiva e moderna, permite um controle eficiente e organizado de informações essenciais para o funcionamento do negócio.
 
 ---
-<div align="center">
+
 
 ### 📊 GitHub Stats  
-
+<div align="center">
 <table>
   <tr>
     <td style="border: none; padding: 0;">
