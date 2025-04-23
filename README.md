@@ -6,7 +6,7 @@ Se liga nas infos e projetos que estou desenvolvendo — tem muita coisa legal r
 **📍 IFNMG (ADS) | Focado em ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)**  
 
 ---
-
+ 
 ### 🛠️ Tecnologias & Habilidades  
 - **Frontend:**   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)     ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
 - **Backend:**    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)    ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
