@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=👋+Olá%2C+me+chamo+Kennedy+Pinheiro!;Desenvolvedor+Full+Stack;Designer+Gráfico+Freelancer;Apaixonado+por+Tecnologia+e+Inovação!" alt="Typing SVG" />
 </div>
 
 ---
@@ -57,6 +56,7 @@ Interface moderna, com navegação fluida e foco na experiência do usuário.
 
 ---
 
+
 <div align="center">
-  <img src="https://github.com/KennedyPinheiro/KennedyPinheiro/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+
 </div>
