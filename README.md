@@ -8,7 +8,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFNMG  
 👨‍💻 Desenvolvedor Full Stack | UX/UI Designer  
 🎨 Freelancer em Design Gráfico  
-🎂 18 anos - 2006
+🎂 20 anos - 2004
 
 </div>
 
