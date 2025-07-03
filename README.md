@@ -47,15 +47,16 @@ Focado em:
 ### 🌐 **PharusV2**  
 Desenvolvimento do site de eventos do **Instituto Federal do Norte de Minas Gerais (IFNMG)**  
 Stack:  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ---
 
 ### 📱 [Gestorize Mobile](https://github.com/KennedyPinheiro/GestorizeMobile)  
 Aplicativo para gerenciamento de pequenas empresas, com foco em usabilidade e eficiência.  
 Gerencia funcionários, clientes, produtos e orçamentos com interface moderna.
+
+Stack:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white)   
 
 ---
 
