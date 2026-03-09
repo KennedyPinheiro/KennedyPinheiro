@@ -1,72 +1,111 @@
+<h1 align="center">
+👋 Olá, eu sou Kennedy Pinheiro
+</h1>
 
-## ✌️ E aí, tudo certo?
+<p align="center">
+💻 Desenvolvedor Full Stack • 🎨 UX/UI Designer • 📱 Mobile Developer
+</p>
 
-Me chamo **Kennedy Pinheiro Xavier**, sou de Almenara - MG e tenho 20 anos.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** no Instituto Federal do Norte de Minas Gerais e trabalho como estagiário na área de desenvolvimento web no próprio IFNMG.
-
-Sou um apaixonado por tecnologia e design, atuando como **freelancer em design gráfico** e desenvolvendo projetos que unem **frontend, backend e mobile**. Estou sempre buscando novos desafios e aprendizados.
-
----
-<div align="left">
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFNMG  
-👨‍💻 Desenvolvedor Full Stack | UX/UI Designer  
-🎨 Freelancer em Design Gráfico  
-🎂 20 anos - 2004 
-
-</div>
+<p align="center">
+Estudante de <b>Análise e Desenvolvimento de Sistemas</b> no IFNMG
+</p>
 
 ---
 
-## 🚀 Desenvolvedor Full Stack & Designer Gráfico Freelancer  
+## 👨‍💻 Sobre mim
 
-📍 **IFNMG (ADS)**  
-Focado em:  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+Sou **Kennedy Pinheiro Xavier**, tenho **21 anos** e sou de **Almenara - MG**.
 
----
+Atualmente sou **estagiário em desenvolvimento web no IFNMG**, trabalhando com desenvolvimento de aplicações web modernas.
 
-## 🛠️ Tecnologias & Habilidades  
+Também atuo como **freelancer em design gráfico**, criando interfaces e identidades visuais.
 
-### 💻 Frontend  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)  
+Gosto de desenvolver projetos que unem:
 
-### 🔧 Backend  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-
-### 📱 Mobile  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white)  
-
-### 🎨 Design  
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6B6B?style=flat&logo=adobexd&logoColor=white)   ![Design Gráfico](https://img.shields.io/badge/Design_Gráfico-9999FF?style=flat&logo=scribus&logoColor=white)   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)   ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)  
+✨ **tecnologia**  
+✨ **design**  
+✨ **experiência do usuário**
 
 ---
 
-## 🔥 Projetos em Destaque  
+# 📌 Informações Básicas
 
-### 🌐 **PharusV2**  
-Desenvolvimento do site de eventos do **Instituto Federal do Norte de Minas Gerais (IFNMG)**  
-Stack:  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
----
-
-### 📱 [Gestorize Mobile](https://github.com/KennedyPinheiro/GestorizeMobile)  
-Aplicativo para gerenciamento de pequenas empresas, com foco em usabilidade e eficiência.  
-Gerencia funcionários, clientes, produtos e orçamentos com interface moderna.
-
-Stack: 
-
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white)   
+🎓 ADS — **Instituto Federal do Norte de Minas Gerais (IFNMG)**  
+💼 Estagiário em **Desenvolvimento Web**  
+👨‍💻 **Desenvolvedor Full Stack**  
+🎨 **Designer Gráfico Freelancer**
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Especializações
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KennedyPinheiro&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyPinheiro&layout=compact&theme=radical&hide_border=true"/>
-</div>
+<p>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+</p>
+
+Desenvolvimento de aplicações modernas utilizando **arquitetura baseada em API**, integrando **frontend, backend e mobile**.
 
 ---
+
+# 🛠 Tecnologias
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=js,ts,react"/>
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel"/>
+
+## Mobile
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+## Design
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+---
+
+# 🔥 Projetos em Destaque
+
+## 🌐 PharusV2
+
+Sistema de gerenciamento de **eventos do IFNMG**.
+
+Stack:
+
+<img src="https://skillicons.dev/icons?i=ts,react,laravel"/>
+
+---
+
+## 📱 Gestorize Mobile
+
+Aplicativo para **gerenciamento de pequenas empresas**.
+
+Funcionalidades:
+
+- gestão de clientes  
+- controle de produtos  
+- gerenciamento de funcionários  
+- geração de orçamentos
+
+Stack:
+
+<img src="https://skillicons.dev/icons?i=ts,react"/>
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=KennedyPinheiro&show_icons=true&theme=radical"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyPinheiro&layout=compact&theme=radical"/>
+
+</p>
