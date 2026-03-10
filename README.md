@@ -132,18 +132,27 @@ Stack:
 # 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Cards personalizados com valores manuais -->
-  <img width="400px" src="https://via.placeholder.com/400x150/1e1e2f/ffffff?text=📌+Repositórios:+8+📌+Commits:+500+📌+PRs:+20" alt="Custom Stats"/>
+  <!-- Badges de estatísticas básicas (sempre funcionam) -->
+  <img src="https://img.shields.io/badge/📅%20Última%20Atualização-2026--03--10-blue?style=for-the-badge" alt="Last Update"/>
+  <img src="https://img.shields.io/badge/👥%20Followers-0-blue?style=for-the-badge&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/⭐%20Stars-0-yellow?style=for-the-badge&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/📂%20Repositórios-0-green?style=for-the-badge&logo=github" alt="Repos"/>
 </p>
 
 <p align="center">
-  <!-- Gráfico de contribuição animado (geralmente funciona) -->
-  <img src="https://github.com/KennedyPinheiro/KennedyPinheiro/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://img.shields.io/badge/🚀%20Projetos%20em%20Destaque-PharusV2%20|%20Gestorize%20Mobile-ff69b4?style=for-the-badge" alt="Featured Projects"/>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
+  <!-- GitHub Readme Streak (costuma ser mais estável) -->
+  <img src="https://streak-stats.demolab.com/?user=KennedyPinheiro&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <!-- Contador de visitas (sempre funciona) -->
+  <img src="https://komarev.com/ghpvc/?username=KennedyPinheiro&color=blueviolet&style=for-the-badge&label=Visualizações+do+Perfil" alt="Profile Views"/>
+</p>
+
 ---
 
 <p align="center">
