@@ -108,6 +108,7 @@ Stack:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
+ <img src="https://raw.githubusercontent.com/KennedyPinheiro/KennedyPinheiro/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 ---
 
