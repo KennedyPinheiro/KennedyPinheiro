@@ -22,9 +22,9 @@ Também atuo como **freelancer em design gráfico**, criando interfaces e identi
 
 Gosto de desenvolver projetos que unem:
 
-✨ **tecnologia**<br>
-✨ **design**<br>
-✨ **experiência do usuário**
+✨ **Tecnologia**<br>
+✨ **Design**<br>
+✨ **Experiência do usuário**
 
 ---
 
@@ -32,7 +32,7 @@ Gosto de desenvolver projetos que unem:
 
 🎓 ADS — **Instituto Federal do Norte de Minas Gerais (IFNMG)**<br>
 💼 Estagiário em **Desenvolvimento Web**<br>
-👨‍💻 **Desenvolvedor Full Stack**<br>
+👨‍💻 **Desenvolvedor Frontend**<br>
 🎨 **Designer Gráfico Freelancer**
 
 ---
