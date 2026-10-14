@@ -1,160 +1,176 @@
-<h1 align="center">
-  👋 Olá, eu sou Kennedy Pinheiro
-</h1>
+# Olá! Eu sou Kennedy Pinheiro Xavier
 
-<p align="center">
-  💻 Desenvolvedor Full Stack • 🎨 UX/UI Designer • 📱 Mobile Developer
-</p>
+### Desenvolvedor Front-end | React | TypeScript | React Native
 
-<p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> no IFNMG
-</p>
+Estudante de Análise e Desenvolvimento de Sistemas no IFNMG — Campus Almenara, atuo no desenvolvimento de aplicações web e mobile.
+
+Trabalho com React, Next.js, TypeScript e React Native, além de possuir experiência com Laravel, APIs REST e bancos de dados relacionais.
+
+Também tenho experiência com design de interfaces e desenvolvimento de soluções digitais, buscando unir tecnologia, funcionalidade e experiência do usuário.
+
+Atualmente, sou estagiário em desenvolvimento web no IFNMG e colaboro em projetos de tecnologia pela KDTech.
+---
+
+## Sobre mim
+
+Minha atuação envolve desenvolvimento de interfaces, integração com APIs e implementação de funcionalidades para aplicações web e mobile.
+
+Busco compreender os requisitos de cada projeto e transformá-los em soluções funcionais, com atenção à organização do código, à usabilidade e à experiência do usuário.
+
+Além do desenvolvimento de software, tenho experiência com design gráfico e ferramentas de prototipação, como Figma, Photoshop e Illustrator.
+
+Tenho interesse em evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos em arquitetura de aplicações, desenvolvimento de interfaces e integração entre sistemas.
+
+📍 Almenara — MG
+
+🎓 Análise e Desenvolvimento de Sistemas — IFNMG
+
+💼 Estagiário em Desenvolvimento Web
 
 ---
 
-## 👨‍💻 Sobre mim
+## Projetos em destaque
 
-Sou **Kennedy Pinheiro Xavier**, tenho **21 anos** e sou de **Almenara - MG**.
+### 1. Gestorize Mobile
 
-Atualmente sou **estagiário em desenvolvimento web no IFNMG**, trabalhando com desenvolvimento de aplicações web modernas.
+Aplicativo de gestão desenvolvido com foco em micro e pequenas empresas, especialmente negócios que precisam de ferramentas simples e acessíveis para organizar suas atividades.
 
-Também atuo como **freelancer em design gráfico**, criando interfaces e identidades visuais.
+O projeto busca centralizar informações e facilitar tarefas administrativas do dia a dia.
 
-Gosto de desenvolver projetos que unem:
+**Principais funcionalidades:**
 
-✨ **Tecnologia**<br>
-✨ **Design**<br>
-✨ **Experiência do usuário**
+- Gestão de clientes.
+- Cadastro e controle de produtos.
+- Gerenciamento de fornecedores.
+- Gestão de funcionários.
+- Elaboração de orçamentos.
+- Integração entre aplicação mobile e API.
 
----
+**Tecnologias:**
 
-# 📌 Informações Básicas
+React Native · TypeScript · Laravel · PHP · MySQL · REST API
 
-🎓 ADS — **Instituto Federal do Norte de Minas Gerais (IFNMG)**<br>
-💼 Estagiário em **Desenvolvimento Web**<br>
-👨‍💻 **Desenvolvedor Frontend**<br>
-🎨 **Designer Gráfico Freelancer**
-
----
-
-# 🚀 Especializações
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-</p>
-
-Desenvolvimento de aplicações modernas utilizando **arquitetura baseada em API**, integrando **frontend, backend e mobile**.
+**Minha atuação:** desenvolvimento da aplicação mobile, construção de interfaces, integração com a API e implementação das funcionalidades de gestão.
 
 ---
 
-# 🛠 Tecnologias e Ferramentas
+### 2. Central Jurídica
 
-## Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</p>
+Sistema web voltado à organização da rotina de escritórios de advocacia, reunindo funcionalidades relacionadas à gestão de clientes, processos jurídicos, agenda e atividades administrativas.
 
-## Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+Desenvolvido em colaboração com Diego André Afonso, o projeto envolve a construção de interfaces, a implementação de funcionalidades e a integração entre frontend e backend.
 
-## Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-</p>
+**Tecnologias:**
 
-## Design
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-</p>
+Next.js · React · TypeScript · Material UI · Laravel · PHP · MySQL
 
-## Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+**Minha atuação:** desenvolvimento front-end, construção de interfaces e integração com os serviços disponibilizados pela API.
+
+🔗 [Acessar o sistema](https://advogadosmca.com.br/advocacia-gestao)
+
+O acesso às funcionalidades do sistema depende de autenticação.
 
 ---
 
-# 🔥 Projetos em Destaque
+### 3. PharusV2
 
-## 🌐 PharusV2
+Sistema de gerenciamento de eventos do Instituto Federal do Norte de Minas Gerais (IFNMG), desenvolvido para apoiar diferentes etapas da organização de eventos acadêmicos e institucionais.
 
-Sistema de gerenciamento de **eventos do IFNMG**.
+A plataforma reúne funcionalidades relacionadas a atividades, inscrições, submissões, avaliações, credenciamento e divulgação de resultados.
 
-Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-</p>
- <img src="https://raw.githubusercontent.com/KennedyPinheiro/KennedyPinheiro/main/github-metrics.svg" alt="GitHub Metrics"/>
+**Tecnologias:**
 
----
+React · Next.js · TypeScript · Material UI · Laravel · REST API
 
-## 📱 Gestorize Mobile
+**Minha atuação:** desenvolvimento front-end, implementação de interfaces e funcionalidades e integração com a API do sistema.
 
-Aplicativo para **gerenciamento de pequenas empresas**.
-
-Funcionalidades:
-- 📋 gestão de clientes
-- 📦 controle de produtos
-- 👥 gerenciamento de funcionários
-- 💰 geração de orçamentos
-
-Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-</p>
-
----
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-  <!-- Badges de estatísticas básicas (sempre funcionam) -->
-  <img src="https://img.shields.io/badge/📅%20Última%20Atualização-2026--03--10-blue?style=for-the-badge" alt="Last Update"/>
-  <img src="https://img.shields.io/badge/👥%20Followers-0-blue?style=for-the-badge&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/⭐%20Stars-0-yellow?style=for-the-badge&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/badge/📂%20Repositórios-0-green?style=for-the-badge&logo=github" alt="Repos"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Projetos%20em%20Destaque-PharusV2%20|%20Gestorize%20Mobile-ff69b4?style=for-the-badge" alt="Featured Projects"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Readme Streak (costuma ser mais estável) -->
-  <img src="https://streak-stats.demolab.com/?user=KennedyPinheiro&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <!-- Contador de visitas (sempre funciona) -->
-  <img src="https://komarev.com/ghpvc/?username=KennedyPinheiro&color=blueviolet&style=for-the-badge&label=Visualizações+do+Perfil" alt="Profile Views"/>
-</p>
+🔗 [Acessar a plataforma](https://eventos.ifnmg.edu.br)
 
 ---
 
-<p align="center">
-  <b>📍 Almenara - MG</b>  
-</p>
+### 4. Lousa
+
+Protótipo de uma plataforma educacional voltada a professores, com recursos para organização de materiais, elaboração de questões e disponibilização de atividades aos alunos.
+
+O projeto contempla um painel para professores e fluxos de participação dos alunos, correção de atividades e liberação de resultados.
+
+Desenvolvido em colaboração com Diego André Afonso e Alice Figueira.
+
+**Tecnologias:**
+
+React · TypeScript · Vite
+
+**Minha atuação:** colaboração no desenvolvimento das interfaces e funcionalidades da aplicação.
+
+O projeto está em estágio de protótipo, utilizando dados locais e serviços simulados.
+
+---
+
+## Tecnologias e ferramentas
+
+### Front-end
+
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Material UI
+
+### Back-end e integração
+
+- PHP
+- Laravel
+- Node.js
+- APIs REST
+
+### Banco de dados
+
+- MySQL
+- PostgreSQL
+- SQLite
+
+### Desenvolvimento mobile
+
+- React Native
+
+### Design e prototipação
+
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Canva
+
+### Ferramentas e ambiente
+
+- Git
+- GitHub
+- Visual Studio Code
+- Linux
+- Docker
+- Postman
+
+---
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas**
+
+Instituto Federal do Norte de Minas Gerais — IFNMG, Campus Almenara.
+
+Graduação em andamento.
+
+---
+
+## Contato e portfólio
+
+- **E-mail profissional:** [kennedy@kdtech.dev](mailto:kennedy@kdtech.dev)
+- **Portfólio:** [kdtech.dev](https://kdtech.dev)
+- **GitHub:** [KennedyPinheiro](https://github.com/KennedyPinheiro)
+- **LinkedIn:** [Kennedy Pinheiro](https://linkedin.com/in/kennedypinheiro-kdtech)
+
+Estou aberto a oportunidades profissionais, estágios e colaborações em projetos de tecnologia.
+
+Estou aberto a oportunidades de estágio, desenvolvimento de software e colaboração em projetos de tecnologia.
