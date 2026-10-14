@@ -9,6 +9,7 @@ Trabalho com React, Next.js, TypeScript e React Native, além de possuir experi�
 Também tenho experiência com design de interfaces e desenvolvimento de soluções digitais, buscando unir tecnologia, funcionalidade e experiência do usuário.
 
 Atualmente, sou estagiário em desenvolvimento web no IFNMG e colaboro em projetos de tecnologia pela KDTech.
+
 ---
 
 ## Sobre mim
@@ -21,11 +22,9 @@ Além do desenvolvimento de software, tenho experiência com design gráfico e f
 
 Tenho interesse em evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos em arquitetura de aplicações, desenvolvimento de interfaces e integração entre sistemas.
 
-📍 Almenara — MG
-
-🎓 Análise e Desenvolvimento de Sistemas — IFNMG
-
-💼 Estagiário em Desenvolvimento Web
+ -Almenara — MG
+ -Análise e Desenvolvimento de Sistemas — IFNMG
+ -Estagiário em Desenvolvimento Web
 
 ---
 
@@ -66,7 +65,7 @@ Next.js · React · TypeScript · Material UI · Laravel · PHP · MySQL
 
 **Minha atuação:** desenvolvimento front-end, construção de interfaces e integração com os serviços disponibilizados pela API.
 
-🔗 [Acessar o sistema](https://advogadosmca.com.br/advocacia-gestao)
+ [Acessar o sistema](https://advogadosmca.com.br/)
 
 O acesso às funcionalidades do sistema depende de autenticação.
 
@@ -84,7 +83,7 @@ React · Next.js · TypeScript · Material UI · Laravel · REST API
 
 **Minha atuação:** desenvolvimento front-end, implementação de interfaces e funcionalidades e integração com a API do sistema.
 
-🔗 [Acessar a plataforma](https://eventos.ifnmg.edu.br)
+ [Acessar a plataforma](https://eventos.ifnmg.edu.br/)
 
 ---
 
