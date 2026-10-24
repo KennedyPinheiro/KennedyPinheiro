@@ -1,175 +1,254 @@
-# Olá! Eu sou Kennedy Pinheiro Xavier
+<!--
+  README de perfil — Kennedy Pinheiro Xavier
+  Identidade visual: KDTech
+-->
 
-### Desenvolvedor Front-end | React | TypeScript | React Native
+<div align="center">
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFNMG — Campus Almenara, atuo no desenvolvimento de aplicações web e mobile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0D47A1,100:00D4FF&height=220&section=header&text=Kennedy%20Pinheiro&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Transformando%20ideias%20em%20experi%C3%AAncias%20digitais&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
-Trabalho com React, Next.js, TypeScript e React Native, além de possuir experiência com Laravel, APIs REST e bancos de dados relacionais.
+<br>
 
-Também tenho experiência com design de interfaces e desenvolvimento de soluções digitais, buscando unir tecnologia, funcionalidade e experiência do usuário.
+<a href="https://kdtech.dev">
+  <img src="https://img.shields.io/badge/KDTech-050816?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="KDTech"/>
+</a>
+<img src="https://img.shields.io/badge/Front--end-Developer-0D47A1?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Front-end Developer"/>
+<img src="https://img.shields.io/badge/React_Native-Mobile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 
-Atualmente, sou estagiário em desenvolvimento web no IFNMG e colaboro em projetos de tecnologia pela KDTech.
+<br><br>
+
+<a href="https://github.com/KennedyPinheiro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;React+%7C+Next.js+%7C+TypeScript;React+Native+%7C+Laravel+%7C+APIs;Transformando+caf%C3%A9+e+c%C3%B3digo+em+solu%C3%A7%C3%B5es" alt="Animação de apresentação"/>
+</a>
+
+<br>
+
+<p>
+  <a href="https://kdtech.dev">Portfólio</a> •
+  <a href="https://github.com/KennedyPinheiro">GitHub</a> •
+  <a href="https://linkedin.com/in/kennedypinheiro-kdtech">LinkedIn</a> •
+  <a href="mailto:kennedy@kdtech.dev">Contato</a>
+</p>
+
+</div>
 
 ---
 
-## Sobre mim
+## `whoami`
 
-Minha atuação envolve desenvolvimento de interfaces, integração com APIs e implementação de funcionalidades para aplicações web e mobile.
+```typescript
+const kennedy = {
+  nome: "Kennedy Pinheiro Xavier",
+  localização: "Almenara, MG — Brasil",
+  ocupação: "Estudante de ADS e desenvolvedor web",
+  foco: ["Front-end", "Aplicações web", "Mobile"],
+  stackPrincipal: ["React", "Next.js", "TypeScript"],
+  mobile: "React Native",
+  tambémUso: ["Laravel", "PHP", "MySQL", "REST APIs"],
+  construindo: "Projetos que resolvem problemas reais",
+  marca: "KDTech",
+};
+```
 
-Busco compreender os requisitos de cada projeto e transformá-los em soluções funcionais, com atenção à organização do código, à usabilidade e à experiência do usuário.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFNMG — Campus Almenara** e desenvolvedor apaixonado por transformar ideias em aplicações funcionais.
 
-Além do desenvolvimento de software, tenho experiência com design gráfico e ferramentas de prototipação, como Figma, Photoshop e Illustrator.
+Gosto de entender o problema antes de sair escrevendo código. Para mim, desenvolver não é apenas fazer algo funcionar: é construir interfaces intuitivas, organizar bem a aplicação e pensar na experiência de quem vai utilizá-la.
 
-Tenho interesse em evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos em arquitetura de aplicações, desenvolvimento de interfaces e integração entre sistemas.
+Meu foco está no desenvolvimento front-end, principalmente com React, Next.js e TypeScript. Também trabalho com React Native e tenho experiência com Laravel, APIs REST e bancos de dados relacionais.
 
- -Almenara — MG
- -Análise e Desenvolvimento de Sistemas — IFNMG
- -Estagiário em Desenvolvimento Web
+Atualmente, atuo como estagiário em desenvolvimento web no IFNMG e colaboro em projetos de tecnologia pela **KDTech**.
+
+> Meu objetivo não é apenas escrever código. É construir coisas úteis, aprender no processo e deixar cada projeto melhor do que estava antes.
 
 ---
 
-## Projetos em destaque
+## `~/currently-working-on`
 
-### 1. Gestorize Mobile
+O que faz parte da minha jornada atualmente:
 
-Aplicativo de gestão desenvolvido com foco em micro e pequenas empresas, especialmente negócios que precisam de ferramentas simples e acessíveis para organizar suas atividades.
+- Desenvolvendo interfaces web com React, Next.js e TypeScript.
+- Construindo aplicações mobile com React Native.
+- Integrando interfaces a APIs REST e serviços de backend.
+- Estudando arquitetura de aplicações e boas práticas de desenvolvimento.
+- Evoluindo meus projetos pessoais e minha atuação na KDTech.
+- Aprofundando meus conhecimentos em desenvolvimento de software.
 
-O projeto busca centralizar informações e facilitar tarefas administrativas do dia a dia.
+**Filosofia de desenvolvimento:**
 
-**Principais funcionalidades:**
+`Código organizado + interface intuitiva + solução útil`
 
-- Gestão de clientes.
-- Cadastro e controle de produtos.
-- Gerenciamento de fornecedores.
-- Gestão de funcionários.
+---
+
+## Projetos que merecem um `git clone`
+
+Não gosto de apresentar projetos apenas como uma lista de tecnologias. Cada aplicação abaixo representa um problema, uma ideia ou uma experiência de desenvolvimento.
+
+### 01. Gestorize Mobile
+
+**Gestão simplificada para quem precisa cuidar do próprio negócio.**
+
+Aplicativo de gestão pensado para micro e pequenas empresas, com foco em centralizar informações e facilitar tarefas administrativas do dia a dia.
+
+**O que estou construindo:**
+
+- Gestão de clientes, produtos e fornecedores.
+- Cadastro e gerenciamento de funcionários.
 - Elaboração de orçamentos.
-- Integração entre aplicação mobile e API.
+- Integração entre a aplicação mobile e a API.
+- Interfaces voltadas à praticidade e à usabilidade.
 
-**Tecnologias:**
+**Stack utilizada:**
 
-React Native · TypeScript · Laravel · PHP · MySQL · REST API
+`React Native` `TypeScript` `Laravel` `PHP` `MySQL` `REST API`
 
-**Minha atuação:** desenvolvimento da aplicação mobile, construção de interfaces, integração com a API e implementação das funcionalidades de gestão.
+**Minha atuação:** desenvolvimento mobile, construção de interfaces, integração com a API e implementação das funcionalidades de gestão.
 
 ---
 
-### 2. Central Jurídica
+### 02. Central Jurídica
 
-Sistema web voltado à organização da rotina de escritórios de advocacia, reunindo funcionalidades relacionadas à gestão de clientes, processos jurídicos, agenda e atividades administrativas.
+**Menos processos espalhados. Mais organização.**
 
-Desenvolvido em colaboração com Diego André Afonso, o projeto envolve a construção de interfaces, a implementação de funcionalidades e a integração entre frontend e backend.
+Sistema web voltado à organização da rotina de escritórios de advocacia, com funcionalidades relacionadas à gestão de clientes, processos jurídicos, agenda e atividades administrativas.
 
-**Tecnologias:**
+Desenvolvido em colaboração com Diego André Afonso.
 
-Next.js · React · TypeScript · Material UI · Laravel · PHP · MySQL
+**Stack utilizada:**
+
+`Next.js` `React` `TypeScript` `Material UI` `Laravel` `PHP` `MySQL`
 
 **Minha atuação:** desenvolvimento front-end, construção de interfaces e integração com os serviços disponibilizados pela API.
 
- [Acessar o sistema](https://advogadosmca.com.br/)
+**Acesse:** [Central Jurídica](https://advogadosmca.com.br/)
 
-O acesso às funcionalidades do sistema depende de autenticação.
+*O acesso às funcionalidades depende de autenticação.*
 
 ---
 
-### 3. PharusV2
+### 03. PharusV2
+
+**Tecnologia apoiando a organização de eventos acadêmicos.**
 
 Sistema de gerenciamento de eventos do Instituto Federal do Norte de Minas Gerais (IFNMG), desenvolvido para apoiar diferentes etapas da organização de eventos acadêmicos e institucionais.
 
-A plataforma reúne funcionalidades relacionadas a atividades, inscrições, submissões, avaliações, credenciamento e divulgação de resultados.
+A plataforma reúne funcionalidades de atividades, inscrições, submissões, avaliações, credenciamento e divulgação de resultados.
 
-**Tecnologias:**
+**Stack utilizada:**
 
-React · Next.js · TypeScript · Material UI · Laravel · REST API
+`React` `Next.js` `TypeScript` `Material UI` `Laravel` `REST API`
 
-**Minha atuação:** desenvolvimento front-end, implementação de interfaces e funcionalidades e integração com a API do sistema.
+**Minha atuação:** desenvolvimento front-end, implementação de interfaces e funcionalidades e integração com a API.
 
- [Acessar a plataforma](https://eventos.ifnmg.edu.br/)
+**Acesse:** [PharusV2 — Plataforma de Eventos do IFNMG](https://eventos.ifnmg.edu.br/)
 
 ---
 
-### 4. Lousa
+### 04. Lousa
 
-Protótipo de uma plataforma educacional voltada a professores, com recursos para organização de materiais, elaboração de questões e disponibilização de atividades aos alunos.
+**Uma experiência de aprendizagem em construção.**
 
-O projeto contempla um painel para professores e fluxos de participação dos alunos, correção de atividades e liberação de resultados.
+Protótipo de uma plataforma educacional voltada a professores, com recursos para organizar materiais, elaborar questões e disponibilizar atividades aos alunos.
+
+O projeto contempla painéis para professores e fluxos de participação dos alunos, correção de atividades e divulgação de resultados.
 
 Desenvolvido em colaboração com Diego André Afonso e Alice Figueira.
 
-**Tecnologias:**
+**Stack utilizada:**
 
-React · TypeScript · Vite
+`React` `TypeScript` `Vite`
 
-**Minha atuação:** colaboração no desenvolvimento das interfaces e funcionalidades da aplicação.
+**Minha atuação:** colaboração no desenvolvimento das interfaces e funcionalidades.
 
-O projeto está em estágio de protótipo, utilizando dados locais e serviços simulados.
+*Status: protótipo em evolução, com dados locais e serviços simulados.*
 
 ---
 
-## Tecnologias e ferramentas
+## `toolbox/`
+
+As ferramentas que utilizo para transformar ideias em aplicações.
+
+<div align="center">
 
 ### Front-end
 
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Material UI
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui&theme=dark" alt="Tecnologias front-end"/>
 
-### Back-end e integração
+### Mobile
 
-- PHP
-- Laravel
-- Node.js
-- APIs REST
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native"/>
 
-### Banco de dados
+### Back-end e banco de dados
 
-- MySQL
-- PostgreSQL
-- SQLite
-
-### Desenvolvimento mobile
-
-- React Native
-
-### Design e prototipação
-
-- Figma
-- Adobe Photoshop
-- Adobe Illustrator
-- Canva
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,sqlite&theme=dark" alt="Tecnologias de back-end e banco de dados"/>
 
 ### Ferramentas e ambiente
 
-- Git
-- GitHub
-- Visual Studio Code
-- Linux
-- Docker
-- Postman
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma,ps,ai&theme=dark" alt="Ferramentas de desenvolvimento e design"/>
+
+</div>
+
+Também utilizo ferramentas de design gráfico e prototipação para pensar na interface antes e durante o desenvolvimento.
 
 ---
 
-## Formação
+## `git stats`
 
-**Análise e Desenvolvimento de Sistemas**
+<div align="center">
 
-Instituto Federal do Norte de Minas Gerais — IFNMG, Campus Almenara.
+<a href="https://github.com/KennedyPinheiro">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KennedyPinheiro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+</a>
 
-Graduação em andamento.
+<a href="https://github.com/KennedyPinheiro">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyPinheiro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
+</a>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=KennedyPinheiro&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+
+</div>
 
 ---
 
-## Contato e portfólio
+## Além do código
 
-- **E-mail profissional:** [kennedy@kdtech.dev](mailto:kennedy@kdtech.dev)
-- **Portfólio:** [kdtech.dev](https://kdtech.dev)
-- **GitHub:** [KennedyPinheiro](https://github.com/KennedyPinheiro)
-- **LinkedIn:** [Kennedy Pinheiro](https://linkedin.com/in/kennedypinheiro-kdtech)
+Porque ser desenvolvedor vai muito além de abrir o VS Code.
 
-Estou aberto a oportunidades profissionais, estágios e colaborações em projetos de tecnologia.
+- **🎨 Design também é parte do desenvolvimento:** gosto de pensar na interface, na organização visual e na experiência do usuário.
+- **🧠 Curiosidade acima do piloto automático:** gosto de entender como as coisas funcionam, testar alternativas e aprender tecnologias novas.
+- **🛠️ Aprender construindo:** acredito que projetos reais ensinam coisas que nenhum tutorial consegue cobrir sozinho.
+- **📈 Evolução contínua:** estou construindo minha trajetória profissional, aprofundando meus conhecimentos e buscando desafios que me façam crescer.
+
+E sim: às vezes a solução está em três linhas de código. O difícil é descobrir quais três linhas.
+
+---
+
+## `connect --with kennedy`
 
 Estou aberto a oportunidades de estágio, desenvolvimento de software e colaboração em projetos de tecnologia.
+
+Se você tem uma ideia, um projeto interessante ou simplesmente quer trocar experiências sobre desenvolvimento, vamos conversar.
+
+<div align="center">
+
+<a href="https://kdtech.dev">
+  <img src="https://img.shields.io/badge/Portfólio-KDTech-0D47A1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio KDTech"/>
+</a>
+<a href="mailto:kennedy@kdtech.dev">
+  <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+</a>
+<a href="https://linkedin.com/in/kennedypinheiro-kdtech">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/KennedyPinheiro">
+  <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0D47A1,100:050816&height=110&section=footer" width="100%" />
+
+**Construindo hoje. Aprendendo sempre. Melhorando a cada commit.**
+
+</div>
