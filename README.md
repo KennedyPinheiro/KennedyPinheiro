@@ -215,10 +215,10 @@ Também utilizo ferramentas de design gráfico e prototipação para pensar na i
 
 Porque ser desenvolvedor vai muito além de abrir o VS Code.
 
-- **🎨 Design também é parte do desenvolvimento:** gosto de pensar na interface, na organização visual e na experiência do usuário.
-- **🧠 Curiosidade acima do piloto automático:** gosto de entender como as coisas funcionam, testar alternativas e aprender tecnologias novas.
-- **🛠️ Aprender construindo:** acredito que projetos reais ensinam coisas que nenhum tutorial consegue cobrir sozinho.
-- **📈 Evolução contínua:** estou construindo minha trajetória profissional, aprofundando meus conhecimentos e buscando desafios que me façam crescer.
+- **Design também é parte do desenvolvimento:** gosto de pensar na interface, na organização visual e na experiência do usuário.
+- **Curiosidade acima do piloto automático:** gosto de entender como as coisas funcionam, testar alternativas e aprender tecnologias novas.
+- **Aprender construindo:** acredito que projetos reais ensinam coisas que nenhum tutorial consegue cobrir sozinho.
+- **Evolução contínua:** estou construindo minha trajetória profissional, aprofundando meus conhecimentos e buscando desafios que me façam crescer.
 
 E sim: às vezes a solução está em três linhas de código. O difícil é descobrir quais três linhas.
 
