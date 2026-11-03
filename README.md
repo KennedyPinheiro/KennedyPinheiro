@@ -230,8 +230,7 @@ Também utilizo ferramentas de design gráfico e prototipação para pensar na i
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=KennedyPinheiro&theme=transparent&hide_border=false&border=4C1D95&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF&locale=pt_BR" alt="Sequência de contribuições"/>
-
+<img src="https://streak-stats.demolab.com?user=KennedyPinheiro&theme=transparent&hide_border=false&border=4C1D95&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF&locale=pt_BR&timezone=America%2FSao_Paulo" alt="Sequência de contribuições"/>
 </div>
 
 </div>
