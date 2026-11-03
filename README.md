@@ -12,13 +12,13 @@
 <a href="https://kdtech.dev">
   <img src="https://img.shields.io/badge/KDTech-050816?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="KDTech"/>
 </a>
-<img src="https://img.shields.io/badge/FullStack-Developer-0D47A1?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Front-end Developer"/>
+<img src="https://img.shields.io/badge/Frontend-Developer-0D47A1?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Front-end Developer"/>
 <img src="https://img.shields.io/badge/React_Native-Mobile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 
 <br><br>
 
 <a href="https://github.com/KennedyPinheiro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;React+%7C+Next.js+%7C+TypeScript;React+Native+%7C+Laravel+%7C+APIs;Transformando+caf%C3%A9+e+c%C3%B3digo+em+solu%C3%A7%C3%B5es" alt="Animação de apresentação"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;React+%7C+Next.js+%7C+TypeScript;React+Native+%7C+Laravel+%7C+APIs;Transformando+caf%C3%A9+e+c%C3%B3digo+em+solu%C3%A7%C3%B5es" alt="Animação de apresentação"/>
 </a>
 
 <br>
