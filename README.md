@@ -12,7 +12,7 @@
 <a href="https://kdtech.dev">
   <img src="https://img.shields.io/badge/KDTech-050816?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="KDTech"/>
 </a>
-<img src="https://img.shields.io/badge/Front--end-Developer-0D47A1?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Front-end Developer"/>
+<img src="https://img.shields.io/badge/FullStack-Developer-0D47A1?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Front-end Developer"/>
 <img src="https://img.shields.io/badge/React_Native-Mobile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 
 <br><br>
