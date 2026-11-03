@@ -1,24 +1,25 @@
 <!--
   README de perfil — Kennedy Pinheiro Xavier
   Identidade visual: KDTech
+  Paleta: Roxo
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0D47A1,100:00D4FF&height=220&section=header&text=Kennedy%20Pinheiro&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Transformando%20ideias%20em%20experi%C3%AAncias%20digitais&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090613,50:4C1D95,100:8B5CF6&height=220&section=header&text=Kennedy%20Pinheiro&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Transformando%20ideias%20em%20experi%C3%AAncias%20digitais&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br>
 
 <a href="https://kdtech.dev">
-  <img src="https://img.shields.io/badge/KDTech-050816?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="KDTech"/>
+  <img src="https://img.shields.io/badge/KDTech-090613?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="KDTech"/>
 </a>
-<img src="https://img.shields.io/badge/Frontend-Developer-0D47A1?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Front-end Developer"/>
-<img src="https://img.shields.io/badge/React_Native-Mobile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Full_Stack-Developer-6D28D9?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Developer"/>
+<img src="https://img.shields.io/badge/React_Native-Mobile-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
 
 <br><br>
 
 <a href="https://github.com/KennedyPinheiro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;React+%7C+Next.js+%7C+TypeScript;React+Native+%7C+Laravel+%7C+APIs;Transformando+caf%C3%A9+e+c%C3%B3digo+em+solu%C3%A7%C3%B5es" alt="Animação de apresentação"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Next.js+%7C+TypeScript;Laravel+%7C+PHP+%7C+MySQL;React+Native+%7C+APIs+REST;Transformando+caf%C3%A9+e+c%C3%B3digo+em+solu%C3%A7%C3%B5es" alt="Animação de apresentação"/>
 </a>
 
 <br>
@@ -31,79 +32,91 @@
 </p>
 
 </div>
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
+</div>
 ## `whoami`
 
 ```typescript
 const kennedy = {
   nome: "Kennedy Pinheiro Xavier",
   localização: "Almenara, MG — Brasil",
-  ocupação: "Estudante de ADS e desenvolvedor web",
-  foco: ["Front-end", "Aplicações web", "Mobile"],
-  stackPrincipal: ["React", "Next.js", "TypeScript"],
+  ocupação: "Estudante de ADS e Desenvolvedor Full Stack",
+  atuação: ["Front-end", "Back-end", "Mobile"],
+  frontEnd: ["React", "Next.js", "TypeScript"],
+  backEnd: ["Laravel", "PHP", "REST APIs"],
   mobile: "React Native",
-  tambémUso: ["Laravel", "PHP", "MySQL", "REST APIs"],
-  construindo: "Projetos que resolvem problemas reais",
+  bancoDeDados: ["MySQL", "PostgreSQL"],
+  construindo: "Aplicações completas e soluções para problemas reais",
   marca: "KDTech",
 };
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFNMG — Campus Almenara** e desenvolvedor apaixonado por transformar ideias em aplicações funcionais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFNMG — Campus Almenara** e desenvolvedor de software interessado em transformar ideias em aplicações funcionais e soluções digitais.
 
-Gosto de entender o problema antes de sair escrevendo código. Para mim, desenvolver não é apenas fazer algo funcionar: é construir interfaces intuitivas, organizar bem a aplicação e pensar na experiência de quem vai utilizá-la.
+Gosto de entender o problema antes de começar a escrever código. Acredito que desenvolver software vai além de implementar funcionalidades: envolve planejar a arquitetura, construir interfaces intuitivas, estruturar regras de negócio e garantir uma boa experiência para quem utiliza a aplicação.
 
-Meu foco está no desenvolvimento front-end, principalmente com React, Next.js e TypeScript. Também trabalho com React Native e tenho experiência com Laravel, APIs REST e bancos de dados relacionais.
+Minha atuação envolve desenvolvimento **Full Stack**, com experiência na construção de interfaces utilizando React, Next.js e TypeScript, desenvolvimento de aplicações mobile com React Native e implementação de back-end com Laravel, PHP, APIs REST e bancos de dados relacionais.
 
 Atualmente, atuo como estagiário em desenvolvimento web no IFNMG e colaboro em projetos de tecnologia pela **KDTech**.
 
-> Meu objetivo não é apenas escrever código. É construir coisas úteis, aprender no processo e deixar cada projeto melhor do que estava antes.
+> Meu objetivo não é apenas escrever código. É entender problemas, construir soluções completas e evoluir a cada projeto.
 
----
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
+</div>
 
 ## `~/currently-working-on`
 
 O que faz parte da minha jornada atualmente:
 
-- Desenvolvendo interfaces web com React, Next.js e TypeScript.
+- Desenvolvendo aplicações web com React, Next.js e TypeScript.
+- Implementando APIs REST e regras de negócio com Laravel e PHP.
 - Construindo aplicações mobile com React Native.
-- Integrando interfaces a APIs REST e serviços de backend.
-- Estudando arquitetura de aplicações e boas práticas de desenvolvimento.
+- Trabalhando com bancos de dados relacionais e modelagem de dados.
+- Estudando arquitetura de software, organização de projetos e boas práticas.
 - Evoluindo meus projetos pessoais e minha atuação na KDTech.
 - Aprofundando meus conhecimentos em desenvolvimento de software.
 
 **Filosofia de desenvolvimento:**
 
-`Código organizado + interface intuitiva + solução útil`
+`Arquitetura organizada + código limpo + experiência intuitiva + solução útil`
 
----
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
+</div>
 
 ## Projetos que merecem um `git clone`
 
 Não gosto de apresentar projetos apenas como uma lista de tecnologias. Cada aplicação abaixo representa um problema, uma ideia ou uma experiência de desenvolvimento.
 
-### 01. Gestorize Mobile
+### 01. Gestorize
 
 **Gestão simplificada para quem precisa cuidar do próprio negócio.**
 
-Aplicativo de gestão pensado para micro e pequenas empresas, com foco em centralizar informações e facilitar tarefas administrativas do dia a dia.
+Sistema de gestão desenvolvido como projeto de Trabalho de Conclusão de Curso, voltado a micro e pequenas empresas, especialmente empreendimentos da região do Vale do Jequitinhonha.
 
-**O que estou construindo:**
+A proposta é centralizar informações administrativas e facilitar o gerenciamento das atividades cotidianas de pequenos negócios.
+
+**Funcionalidades implementadas:**
 
 - Gestão de clientes, produtos e fornecedores.
 - Cadastro e gerenciamento de funcionários.
-- Elaboração de orçamentos.
-- Integração entre a aplicação mobile e a API.
-- Interfaces voltadas à praticidade e à usabilidade.
+- Elaboração e gerenciamento de orçamentos.
+- Controle de vendas.
+- Relatórios gerenciais.
+- Controle de acessos e permissões por perfil.
+- Aplicações web e mobile integradas à mesma API.
 
 **Stack utilizada:**
 
 `React Native` `TypeScript` `Laravel` `PHP` `MySQL` `REST API`
 
-**Minha atuação:** desenvolvimento mobile, construção de interfaces, integração com a API e implementação das funcionalidades de gestão.
+**Minha atuação:** desenvolvimento das aplicações, implementação de funcionalidades, construção de interfaces, modelagem e integração com a API.
 
----
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
+</div>
 
 ### 02. Central Jurídica
 
@@ -117,13 +130,15 @@ Desenvolvido em colaboração com Diego André Afonso.
 
 `Next.js` `React` `TypeScript` `Material UI` `Laravel` `PHP` `MySQL`
 
-**Minha atuação:** desenvolvimento front-end, construção de interfaces e integração com os serviços disponibilizados pela API.
+**Minha atuação:** desenvolvimento de interfaces, implementação de funcionalidades, integração com APIs e colaboração na evolução da aplicação.
 
 **Acesse:** [Central Jurídica](https://advogadosmca.com.br/)
 
 *O acesso às funcionalidades depende de autenticação.*
 
----
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
+</div>
 
 ### 03. PharusV2
 
@@ -141,7 +156,9 @@ A plataforma reúne funcionalidades de atividades, inscrições, submissões, av
 
 **Acesse:** [PharusV2 — Plataforma de Eventos do IFNMG](https://eventos.ifnmg.edu.br/)
 
----
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
+</div>
 
 ### 04. Lousa
 
@@ -157,11 +174,13 @@ Desenvolvido em colaboração com Diego André Afonso e Alice Figueira.
 
 `React` `TypeScript` `Vite`
 
-**Minha atuação:** colaboração no desenvolvimento das interfaces e funcionalidades.
+**Minha atuação:** colaboração no desenvolvimento das interfaces e funcionalidades da aplicação.
 
 *Status: protótipo em evolução, com dados locais e serviços simulados.*
 
----
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
+</div>
 
 ## `toolbox/`
 
@@ -177,9 +196,13 @@ As ferramentas que utilizo para transformar ideias em aplicações.
 
 <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native"/>
 
-### Back-end e banco de dados
+### Back-end
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,sqlite&theme=dark" alt="Tecnologias de back-end e banco de dados"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" alt="Tecnologias back-end"/>
+
+### Banco de dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Bancos de dados"/>
 
 ### Ferramentas e ambiente
 
@@ -189,57 +212,65 @@ As ferramentas que utilizo para transformar ideias em aplicações.
 
 Também utilizo ferramentas de design gráfico e prototipação para pensar na interface antes e durante o desenvolvimento.
 
----
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
+</div>
 
 ## `git stats`
 
 <div align="center">
 
 <a href="https://github.com/KennedyPinheiro">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KennedyPinheiro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KennedyPinheiro&show_icons=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&border_color=4C1D95&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub"/>
 </a>
 
 <a href="https://github.com/KennedyPinheiro">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyPinheiro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyPinheiro&layout=compact&theme=transparent&title_color=A78BFA&text_color=C4B5FD&border_color=4C1D95&langs_count=8" alt="Linguagens mais utilizadas"/>
 </a>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=KennedyPinheiro&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+<img src="https://streak-stats.demolab.com?user=KennedyPinheiro&theme=transparent&hide_border=false&border=4C1D95&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF&locale=pt_BR" alt="Sequência de contribuições"/>
 
 </div>
 
----
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
+</div>
 
 ## Além do código
 
 Porque ser desenvolvedor vai muito além de abrir o VS Code.
 
-- **Design também é parte do desenvolvimento:** gosto de pensar na interface, na organização visual e na experiência do usuário.
+- **Visão de produto:** gosto de entender as necessidades do projeto e pensar em soluções que realmente façam sentido.
+- **Desenvolvimento completo:** tenho interesse em todas as etapas, desde a interface até as regras de negócio e a persistência dos dados.
 - **Curiosidade acima do piloto automático:** gosto de entender como as coisas funcionam, testar alternativas e aprender tecnologias novas.
 - **Aprender construindo:** acredito que projetos reais ensinam coisas que nenhum tutorial consegue cobrir sozinho.
 - **Evolução contínua:** estou construindo minha trajetória profissional, aprofundando meus conhecimentos e buscando desafios que me façam crescer.
 
 E sim: às vezes a solução está em três linhas de código. O difícil é descobrir quais três linhas.
 
----
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
+</div>
 
 ## `connect --with kennedy`
 
-Estou aberto a oportunidades de estágio, desenvolvimento de software e colaboração em projetos de tecnologia.
+Estou aberto a oportunidades de estágio, desenvolvimento Full Stack e colaboração em projetos de tecnologia.
 
 Se você tem uma ideia, um projeto interessante ou simplesmente quer trocar experiências sobre desenvolvimento, vamos conversar.
 
 <div align="center">
 
 <a href="https://kdtech.dev">
-  <img src="https://img.shields.io/badge/Portfólio-KDTech-0D47A1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio KDTech"/>
+  <img src="https://img.shields.io/badge/Portfólio-KDTech-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio KDTech"/>
 </a>
 <a href="mailto:kennedy@kdtech.dev">
-  <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  <img src="https://img.shields.io/badge/E--mail-Contato-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 <a href="https://linkedin.com/in/kennedypinheiro-kdtech">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/KennedyPinheiro">
   <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -247,7 +278,7 @@ Se você tem uma ideia, um projeto interessante ou simplesmente quer trocar expe
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0D47A1,100:050816&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:4C1D95,100:090613&height=110&section=footer" width="100%" />
 
 **Construindo hoje. Aprendendo sempre. Melhorando a cada commit.**
 
