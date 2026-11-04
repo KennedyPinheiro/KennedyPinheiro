@@ -232,8 +232,6 @@ Também utilizo ferramentas de design gráfico e prototipação para pensar na i
 
 <img src="https://streak-stats.demolab.com?user=KennedyPinheiro&theme=transparent&hide_border=false&border=4C1D95&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF&locale=pt_BR&timezone=America%2FSao_Paulo" alt="Sequência de contribuições"/>
 </div>
-
-</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090613,25:2E1065,50:8B5CF6,75:2E1065,100:090613&height=12&section=header" width="100%" alt="Divisor em gradiente roxo"/>
 </div>
 
